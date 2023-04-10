@@ -1,0 +1,18 @@
+.headerr{
+    width: 100%;
+    display: flex;
+}
+.container{
+    width: 30%;
+
+}
+.nav-item{
+    display: flex;
+   font-size: 20px;
+   list-style: none;
+
+}
+
+.lists{
+    width: 70%;
+}
